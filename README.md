@@ -1,5 +1,5 @@
 # 💫 About Me:
-lm currently working on my own projects.<br>lm looking to collaborate with others developers.<br>lm currently learning Data Analytics.<br>Ask me about financials and modeling.<br>lm looking for team of working.<br>
+→lm currently working on my own projects.<br>→lm looking to collaborate with others developers.<br>→lm currently learning Data Analytics.<br>→Ask me about financials and modeling.<br>→lm looking for team of working.<br>
 
 
 ## 🌐 Socials:
