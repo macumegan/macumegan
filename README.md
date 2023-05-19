@@ -13,7 +13,7 @@ lm currently working on my own projects.<br>lm looking to collaborate with other
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=macumegan&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Megan MC)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=MeganMalagonCuq)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
